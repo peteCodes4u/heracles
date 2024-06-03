@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS heracles_db;
+CREATE DATABASE heracles_db;
