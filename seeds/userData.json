@@ -1,0 +1,23 @@
+[
+  {
+    "username": "peteCodes4u",
+    "email": "peter.appliedanalyticalsciences@gmail.com",
+    "password": "wordpass123",
+    "zipcode": "34695",
+    "userRole": "SuperUser"
+  },
+  {
+    "username": "Instructor1",
+    "email": "instructor-1@gmail.com",
+    "password": "password12345",
+    "zipcode": "34695",
+    "userRole": "Instructor"
+  },
+  {
+    "username": "Student1",
+    "email": "student-1@aol.com",
+    "password": "password12345",
+    "zipcode": "34695",
+    "userRole": "Student"
+  }
+]

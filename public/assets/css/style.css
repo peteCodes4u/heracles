@@ -1,0 +1,46 @@
+:root {
+    --clr-dark: #1b383a;
+    --clr-light: #f5f3ee;
+    --clr-accent1: #e1895d;
+    --clr-accent2: #e7cc65;
+  }
+
+body {
+    background-color: var(--clr-dark);
+    color: var(--clr-light);
+}
+
+#header a {
+    color: var(--clr-accent1);
+    font-weight: 400;
+    font-size:3vh;
+}
+
+.carousel-item img{
+    width: 100%
+}
+
+.hero {
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    margin-left: 2vh;
+}
+
+.hero img{
+    border-radius: 2%;
+}
+
+#searchArea {
+    text-align: center;
+}
+
+.btn {
+    background-color: var(--clr-accent1);
+    color: var(--clr-light);
+}
+
+.input-group {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
